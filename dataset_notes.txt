@@ -1,6 +1,6 @@
 YELP DATASET EXPLORATION
 
-Reviews: 62'912'520 (62912520)
+Reviews: 6,990,280 (6990280)
 Columns: Index(['review_id', 'user_id', 'business_id', 'stars', 'useful', 'funny', 'cool', 'text', 'date'], dtype='object')
 Sample column: 
 	review_id                                 KU_O5udG6zpxOg-VcAEodg
